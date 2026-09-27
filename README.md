@@ -1,49 +1,50 @@
-# Merhaba, Ben Emir Salih 👋
+# Hi, I'm Emir Salih Gümrük 👋
 
-Bilgisayar Mühendisliği öğrencisi ve Full-Stack Yazılım Geliştiricisiyim. Modern web mimarileri, dağıtık sistemler ve yapay zekâ destekli pratik çözümler üretmeye odaklanıyorum.
+**Full-Stack Software Engineer · Computer Engineering Student**
 
-- 🔭 Şu anda üzerinde çalıştığım proje: **ScedulAI**
-- 💼 Canlıya aldığım ticari proje: **Darch Leather**
-- ⚡ İlgi alanlarım: Full-stack mimariler, mikroservisler ve gömülü sistemler.
+I design and ship full-stack web architectures with a bias for performance — typed end to end, from the PostgreSQL schema to the React component at the edge.
 
----
-
-## 🚀 Öne Çıkan Projeler
-
-### 1. ScedulAI (Yapay Zekâ Destekli Dil Öğrenme Platformu)
-Video transkriptlerini (TED, YouTube, BBC) işleyerek kullanıcıya bağlamsal öğrenme ve kelime pekiştirme imkânı sunan yapay zekâ entegreli eğitim uygulaması.
-
-- **Durum:** Canlı Demo (Açık Kaynak)
-- **Teknolojiler:** Next.js (App Router), TypeScript, Supabase (PostgreSQL), Drizzle ORM, Better Auth, OpenRouter AI SDK, Tailwind CSS
-- **Canlı Demo:** [scedulai.com](https://scedulai.com) *(Kendi linkinizi ekleyin)*
-- **Kaynak Kodları:** [GitHub Repository Linki](https://github.com/kullaniciadi/scedulai)
+- 🎓 B.S. Computer Engineering @ Bolu Abant İzzet Baysal University (Expected May 2027)
+- 🌱 Currently building AI-powered systems and e-commerce platforms with Next.js & Supabase
+- 💼 Available for Summer 2027 internships
+- 📫 Reach me at **emirsalihgumruk@gmail.com**
 
 ---
 
-### 2. Darch Leather (E-Ticaret & Stok Yönetim Platformu)
-El yapımı deri ürünler için geliştirilmiş; ödeme altyapısı, güvenli kimlik doğrulama ve dinamik medya yönetimi içeren uçtan uca e-ticaret çözümü.
+## 🛠️ Tech Stack
 
-- **Durum:** Canlıda (Özel / Kapalı Kaynak)
-- **Teknolojiler:** Java Spring Boot, Next.js, React, Tailwind CSS, Keycloak / RBAC, iyzico API Entegrasyonu, Cloudflare R2
-- **Canlı Site:** [darchleather.com](https://darchleather.com) *(Kendi linkinizi ekleyin)*
-- **Mimari Not:** *Güvenlik, lisans ve ticari veri gizliliği standartları gereğince kaynak kodları kapalı repository olarak tutulmaktadır.*
+**Languages**  
+`TypeScript` · `JavaScript` · `Java` · `SQL` · `Bash`
 
----
+**Frontend & UI**  
+`React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `Radix UI` · `Framer Motion`
 
-## 🛠️ Yetkinlikler & Araçlar
+**Backend & Data**  
+`Node.js` · `Java Spring Boot` · `PostgreSQL` · `Supabase` · `Drizzle ORM` · `REST APIs` · `Redis`
 
-**Frontend:**  
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Radix UI / shadcn`
-
-**Backend & Veritabanı:**  
-`Java Spring Boot` `Node.js` `PostgreSQL` `Supabase` `Drizzle ORM` `REST APIs`
-
-**DevOps, Güvenlik & Bulut:**  
-`Docker` `Cloudflare R2/Workers` `Keycloak` `Git` `Linux / WSL`
+**DevOps & Systems**  
+`Docker` · `Git` · `Linux / WSL` · `CI/CD` · `GitHub Actions` · `OAuth / OIDC`
 
 ---
 
-## 📫 İletişim
+## 🚀 Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com/in/kullaniciadi)
-- **E-posta:** ornek@domain.com
+### [ScedulAI](https://scedulai.com) · [Source Code](https://github.com/emirsalihgmrk/scedulai) *(Live Demo)*
+Personalised language-learning platform that generates contextual exercises from video transcripts, evaluates user translations with LLMs, and builds adaptive practice sessions from tracked mistakes.
+
+> **Stack:** Next.js · TypeScript · Supabase · Drizzle ORM · Anthropic SDK · Resend
+
+---
+
+### [Darch Leather](https://darchleather.com) *(Production / Private)*
+Full-stack e-commerce platform for a premium handcrafted leather goods brand. Built with modular server architecture, iyzico hosted checkout featuring idempotent callback handling, Cloudflare storage, and role-gated administrative workflows.
+
+> **Stack:** Next.js · Java Spring Boot · TypeScript · Supabase · PostgreSQL · iyzico API · Zustand
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [Emir Salih Gümrük](https://www.linkedin.com/in/emir-salih-g%C3%BCmr%C3%BCk-442a47370/)
+- **GitHub:** [@emirsalihgmrk](https://github.com/emirsalihgmrk)
+- **Email:** emirsalihgumruk@gmail.com
