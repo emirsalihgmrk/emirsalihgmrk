@@ -37,9 +37,9 @@ Personalised language-learning platform that generates contextual exercises from
 ---
 
 ### [Darch Leather](https://darchleather.com) *(Production / Private)*
-Full-stack e-commerce platform for a premium handcrafted leather goods brand. Built with modular server architecture, iyzico hosted checkout featuring idempotent callback handling, Cloudflare storage, and role-gated administrative workflows.
+Full-stack e-commerce platform for a premium handcrafted leather goods brand. Built with modular server architecture, iyzico hosted checkout featuring idempotent callback handling, supabase storage, and role-gated administrative workflows.
 
-> **Stack:** Next.js · Java Spring Boot · TypeScript · Supabase · PostgreSQL · iyzico API · Zustand
+> **Stack:** Next.js · TypeScript · Supabase · PostgreSQL · iyzico API · Zustand
 
 ---
 
